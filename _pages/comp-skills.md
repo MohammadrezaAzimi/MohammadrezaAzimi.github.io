@@ -5,29 +5,29 @@ header:
   image: "/images/datascience.png"
 ---
 
-## Programming language:
+### Programming language:
 Python, C++
 
-## Statistical softwares:
+### Statistical softwares:
 R, Julia, MATLAB
 
-## Machine Intelligence libraries:
+### Machine Intelligence libraries:
 TensorFlow
 
-## Databases and languages:
+### Databases and languages:
 SQL, Oracle, Mongo
 
-## Distributed computing:
+### Distributed computing:
 Hadoop, Spark
 
-## Packages:
+### Packages:
 Pandas, Scipy, Scikit-Learn, keras, pyMongo
 
-## ML tools:
+### ML tools:
 Azure ML
 
-## Optimization packages:
+### Optimization packages:
 Cplex
 
-## Others:
+### Others:
 Latex, Unix
