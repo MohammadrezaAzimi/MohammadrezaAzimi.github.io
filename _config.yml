@@ -98,7 +98,7 @@ analytics:
 # Site Author
 author:
   name             : " Seyyed Mohammadreza Azimi"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /images/profile img.png/# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data"
   location         : "New York City"
   email            :
