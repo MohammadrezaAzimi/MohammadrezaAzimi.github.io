@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /nlp/
-title: "Natural Language Processing Projects by Tags"
+permalink: /mlp/
+title: "Machine Learning Projects by Tags"
 author_profile: true
 header:
   image: "/images/datascience.png"
