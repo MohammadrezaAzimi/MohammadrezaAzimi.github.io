@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: category
 permalink: /cv/
 title: "Computer Vision Projects by Tags"
 author_profile: true
