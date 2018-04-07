@@ -3,8 +3,6 @@ layout: archive
 permalink: /cv/
 title: "Computer Vision Projects by Tags"
 author_profile: true
-header:
-  image: "/images/datascience.png"
 ---
 
 {% include base_path %}
