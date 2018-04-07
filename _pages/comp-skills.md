@@ -2,7 +2,7 @@
 title: "Programming Skills"
 permalink: /prog-skills/
 header:
-  image: "/images/datascience.png"
+  image: "/images/projects.jpg"
 ---
 
 ### Programming language:
