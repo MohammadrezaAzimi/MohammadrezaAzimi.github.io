@@ -1,8 +1,8 @@
 ---
 title: "Programming Skills"
 permalink: /prog-skills/
-header:
-  image: "/images/projects.jpg"
+#header:
+#  image: "/images/projects.jpg"
 ---
 
 ### Programming language:
