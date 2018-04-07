@@ -4,7 +4,7 @@ permalink: /mlp/
 title: "Machine Learning Projects by Tags"
 author_profile: true
 header:
-  image: "/images/datascience.png"
+  image: "/images/projects.jpg"
 ---
 
 {% include base_path %}
