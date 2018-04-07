@@ -4,8 +4,6 @@ main:
     url: /about/
   - title: "Projects"
     url: /mlp/
-  - title: "Computer Vision"
-    url: /cv/
   - title: "Programming Skills"
     url: /prog-skills/
   # - title: "About"
