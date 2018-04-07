@@ -3,8 +3,8 @@ layout: archive
 permalink: /mlp/
 title: "Machine Learning Projects by Tags"
 author_profile: true
-header:
-  image: "/images/projects.jpg"
+#header:
+#  image: "/images/projects.jpg"
 ---
 
 {% include base_path %}
