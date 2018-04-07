@@ -4,8 +4,8 @@ main:
     url: /about/
   - title: "Natural Language Processing"
     url: /nlp/
-  - title: "Projects"
-    url: /sample-project/
+  - title: "Computer Vision"
+    url: /cv/
   - title: "Programming Skills"
     url: /prog-skills/
   # - title: "About"
