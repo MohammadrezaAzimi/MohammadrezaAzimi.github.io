@@ -2,7 +2,7 @@
 title: "Cat-Dog classification using convolutional neural network"
 date: 2018-04-07
 tags: [Computer vision]
-excerpt: "CV"
+excerpt: "Computer Vision"
 mathjax: "true"
 ---
 * Project description:
