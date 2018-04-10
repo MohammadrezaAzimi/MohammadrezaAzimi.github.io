@@ -51,4 +51,4 @@ model.add(layers.Bidirectional(
 ```
 The performance is the same as the first example and the reason is that the capacity of proposed model is used in the most efficient way.  
 
-The source code of this project is available in my [Github link](https://github.com/MohammadrezaAzimi/Temperature-Forcasting-LSTM/blob/master/temperature-forecasting%20using%20LSTM%20.ipynb). Interested reader is referred to the book *Deep Learning with Python* by Francois Chollet.         
+The source code of this project is available in my [Github page](https://github.com/MohammadrezaAzimi/Temperature-Forcasting-LSTM/blob/master/temperature-forecasting%20using%20LSTM%20.ipynb). Interested reader is referred to the book *Deep Learning with Python* by Francois Chollet.         

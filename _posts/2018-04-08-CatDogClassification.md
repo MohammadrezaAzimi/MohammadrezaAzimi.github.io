@@ -53,4 +53,4 @@ datagen = ImageDataGenerator(
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/CatDogConv/acc2.png" alt="ooo">      
 
-The source code of this project is available in my [Github link](https://github.com/MohammadrezaAzimi/Cat-Dog-Classification-ConvNet/blob/master/Cats%20and%20dogs%20using%20Keras.ipynb). Interested reader is referred to the book *Deep Learning with Python* by Francois Chollet.         
+The source code of this project is available in my [Github page](https://github.com/MohammadrezaAzimi/Cat-Dog-Classification-ConvNet/blob/master/Cats%20and%20dogs%20using%20Keras.ipynb). Interested reader is referred to the book *Deep Learning with Python* by Francois Chollet.         

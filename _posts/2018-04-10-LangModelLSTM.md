@@ -46,4 +46,4 @@ if desires of the strubction is be stronges*
 
 It can be seen that low temperature results in repetitive yet realistic structure while high temperature results in a different unforeseen structure.      
 
-The source code of this project is available in my [Github link](https://github.com/MohammadrezaAzimi/TextGenerationLSTM-/blob/master/character%20level%20LSTM%20text%20generation%20(Language%20model).ipynb). Interested reader is referred to the book *Deep Learning with Python* by Francois Chollet.         
+The source code of this project is available in my [Github page](https://github.com/MohammadrezaAzimi/TextGenerationLSTM-/blob/master/character%20level%20LSTM%20text%20generation%20(Language%20model).ipynb). Interested reader is referred to the book *Deep Learning with Python* by Francois Chollet.         
