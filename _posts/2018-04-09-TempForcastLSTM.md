@@ -21,17 +21,17 @@ The loss performance  is shown in the following figure:
 
 Modification:
 
-1. To overcome the overfitting problem, regularization of the form *dropout* is used. For GRU, dropout reflects the rate of dropping the input units of the layer while *recurrent_dropout* shows the dropout rate of the recurrent units.
+To overcome the overfitting problem, regularization of the form *dropout* is used. For GRU, dropout reflects the rate of dropping the input units of the layer while *recurrent_dropout* shows the dropout rate of the recurrent units.
 The loss performance  is shown in the following figure:
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/Jena/loss3.png" alt="ooo">
 
-2. To see if the performance can be improved, one approach is to stack the GRU layers. One subtle difference is that, the output of first GRU layer now should be the entire sequence to be fed into the next GRU layer.  
+To see if the performance can be improved, one approach is to stack the GRU layers. One subtle difference is that, the output of first GRU layer now should be the entire sequence to be fed into the next GRU layer.  
 The loss performance  is shown in the following figure:
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/Jena/loss4.png" alt="ooo">
 
-3. The last improvement is to use bidirectional GRU in which the dependency of data points in both forward and backward directions is analyzed.   
+The last improvement is to use bidirectional GRU in which the dependency of data points in both forward and backward directions is analyzed.   
 
 The performance is the same as the first example and the reason is that the capacity of proposed model is used in the most efficient way.  
 
