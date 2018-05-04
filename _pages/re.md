@@ -2,7 +2,7 @@
 ##title: "Research"
 permalink: /rsch/
 header:
-  image: "/images/Gray.jpg"
+  image: "/images/central-park-panarama.jpg"
 ---
 
 ### Sequence modeling in content delivery with time-varying popularity

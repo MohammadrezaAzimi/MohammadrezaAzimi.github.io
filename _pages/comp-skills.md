@@ -2,7 +2,7 @@
 title: "Programming Skills"
 permalink: /prog-skills/
 header:
-  image: "/images/central-park-panarama.jpg" 
+  image: "/images/TimesSquare.jpg" 
 
 ---
 
