@@ -1,5 +1,4 @@
 ---
-##title: "Research"
 permalink: /rsch/
 header:
   image: "/images/central-park-panarama.jpg"
