@@ -1,6 +1,9 @@
 ---
 title: "Programming Skills"
 permalink: /prog-skills/
+header:
+  image: "/images/central-park-panarama.jpg" 
+
 ---
 
 ### Programming language:
