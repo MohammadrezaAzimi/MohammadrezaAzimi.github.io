@@ -1,7 +1,7 @@
 ---
 permalink: /rsch/
 header:
-  image: "/images/central-park-panarama.jpg"
+  image: "/images/central-park-panarama 2.png"
 ---
 
 ### Sequence modeling in content delivery with time-varying popularity
