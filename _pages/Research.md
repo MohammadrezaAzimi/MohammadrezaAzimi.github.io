@@ -1,6 +1,6 @@
 ---
 title: "Research"
-permalink: /about/
+permalink: /rsch/
 header:
   image: "/images/Gray.jpg"
 ---
