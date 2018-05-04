@@ -1,11 +1,11 @@
 ---
-## title: "Research"
+##title: "Research"
 permalink: /rsch/
 header:
   image: "/images/Gray.jpg"
 ---
 
-### Sequence modeling in content delivery with time-varying popularity
+#### Sequence modeling in content delivery with time-varying popularity
 
 Time-variability of popular contents in communication networks necessitate the efficient utilization of resources to achieve a reliable and timely delivery of contents. During my PhD studies, I modeled the dynamism in the popular content using Markov process and then I studied the effect of different delivery schemes such as proactive or reactive resource utilization on the latency performance of system. The results are published in the following peer-reviewed articles:
 
@@ -27,7 +27,7 @@ S.M.Azimi, O. Simeone, O. Sahin, P. Popovski ["Ultra-reliable cloud mobile compu
 
 ### Resource management using game theoretic analysis
 
-In communication networks, service providers and end-users have contradicting goals. The former seeks to attain the highest income per provided resource while the former attempts to obtain the lowest price per service. Using game theoretic analysis, I modeled the interaction between the service providers and end-users using competition or collaboration based schemes. The results are published in the following peer-reviewed articles:
+In communication networks, service providers and end-users have contradicting goals. The former seeks to attain the highest income per provided resource while the latter attempts to obtain the lowest price per service. Using game theoretic analysis, I modeled the interaction between the service providers and end-users using competition or collaboration based schemes. The results are published in the following peer-reviewed articles:
 
 1. S.M.Azimi, M. H. Manshaei, F. Hendessi ["Cooperative primary–secondary dynamic spectrum leasing game via decentralized bargaining,"](https://link.springer.com/article/10.1007/s11276-015-0999-8) Springer Wireless Networks, vol. 22, no. 3, April 2016.   
 
