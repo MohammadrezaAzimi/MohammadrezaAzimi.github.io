@@ -1,5 +1,5 @@
 ---
-title: 
+title: "  "
 permalink: /rsch/
 header:
   image: "/images/central-park-panarama 2.png"
