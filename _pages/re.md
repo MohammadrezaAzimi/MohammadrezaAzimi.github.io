@@ -22,7 +22,7 @@ Time-variability of popular contents in communication networks necessitate the e
 
 Running computationally intensive tasks by a mobile agent/device suffers from large delay and inefficient  resource utilization. In this project, I studied parallelizing the computation task using map-reduce approach while providing different service levels. The result is published in the following conference:
 
-S.M.Azimi, O. Simeone, O. Sahin, P. Popovski ["Ultra-reliable cloud mobile computing with service composition and superposition coding,"](https://ieeexplore.ieee.org/abstract/document/7841853/) in 2016  Conference on Information Science and Systems (CISS), Princeton, NJ, USA, March 2016.
+S.M.Azimi, O. Simeone, O. Sahin, P. Popovski ["Ultra-reliable cloud mobile computing with service composition and superposition coding,"](https://ieeexplore.ieee.org/abstract/document/7460543/) in 2016  Conference on Information Science and Systems (CISS), Princeton, NJ, USA, March 2016.
 
 
 ### Resource management using game theoretic analysis
