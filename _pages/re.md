@@ -1,6 +1,6 @@
 ---
 title: "  "
-permalink: /rsch/
+permalink: /research/
 header:
   image: "/images/central-park-panarama 2.png"
 ---

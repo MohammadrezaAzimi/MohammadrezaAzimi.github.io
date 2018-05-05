@@ -1,10 +1,10 @@
 ---
 layout: archive
-permalink: /mlp/
+permalink: /project/
 title: "Machine Learning Projects by Tags"
 author_profile: true
 header:
-  image: "/images/newyorkb.jpg" 
+  image: "/images/newyorkb.jpg"
 ---
 
 {% include base_path %}
