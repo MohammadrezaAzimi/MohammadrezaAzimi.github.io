@@ -4,7 +4,7 @@ header:
   image: "/images/central-park-panarama 2.png"
 ---
 
-#### Sequence modeling in content delivery with time-varying popularity
+### Sequence modeling in content delivery with time-varying popularity
 
 Time-variability of popular contents in communication networks necessitate the efficient utilization of resources to achieve a reliable and timely delivery of contents. During my PhD studies, I modeled the dynamism in the popular content using Markov process and then I studied the effect of different delivery schemes such as proactive or reactive resource utilization on the latency performance of system. The results are published in the following peer-reviewed articles:
 
