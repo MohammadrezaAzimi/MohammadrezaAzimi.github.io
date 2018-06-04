@@ -1,5 +1,5 @@
 ---
-title: "Character-level text generation using LSTM"
+title: "Text generation using LSTM"
 date: 2018-04-07
 tags: [Natural language processing]
 excerpt: "NLP"

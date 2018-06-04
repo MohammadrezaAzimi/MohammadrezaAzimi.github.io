@@ -1,5 +1,5 @@
 ---
-title: "Temperature forecasting using LSTM "
+title: "Capturing dependency in timeseries using LSTM (temperature forecasting) "
 date: 2018-04-09
 tags: [Natural language processing]
 excerpt: "NLP"

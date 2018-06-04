@@ -1,5 +1,5 @@
 ---
-title: "Cat-Dog classification using convolutional neural network"
+title: "Binary image classification using convolutional neural network (cat-dog example)"
 date: 2018-04-07
 tags: [Computer vision]
 excerpt: "Computer Vision"
@@ -30,4 +30,4 @@ To increase the accuracy, data augmentation is used to obtain more training data
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/CatDogConv/acc2.png" alt="ooo">      
 
-The source code of this project is available in my [Github page](https://github.com/MohammadrezaAzimi/Cat-Dog-Classification-ConvNet). 
+The source code of this project is available in my [Github page](https://github.com/MohammadrezaAzimi/Cat-Dog-Classification-ConvNet).
