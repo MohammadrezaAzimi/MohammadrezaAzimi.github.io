@@ -12,14 +12,15 @@ Python, C++
 ### Statistical softwares:
 R, Julia, MATLAB
 
+### Visual Tools:
+Power BI
+
 ### Machine Intelligence libraries:
 TensorFlow
 
 ### Databases and languages:
-SQL, Oracle, Mongo
+SQL
 
-### Distributed computing:
-Hadoop, Spark
 
 ### Packages:
 Pandas, Scipy, Scikit-Learn, keras, pyMongo

@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning Project: IMDB"
 permalink: /sample-project/
-tags: [machine learning, data science, neural networks]
+tags: [machine learning, data science, neural networks, SQL]
 header:
   images: "/images/IMDB/projects.jpg"
 excerpt: "Machine Learning, IMDB"
