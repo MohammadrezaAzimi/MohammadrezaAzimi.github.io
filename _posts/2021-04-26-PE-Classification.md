@@ -2,7 +2,7 @@
 title: "Industry Classification for Private Companies"
 date: 2020-06-01
 tags: [ML, Natural language processing]
-excerpt: "NLP, IMDB"
+excerpt: "NLP"
 mathjax: "true"
 ---
 ### Project description
