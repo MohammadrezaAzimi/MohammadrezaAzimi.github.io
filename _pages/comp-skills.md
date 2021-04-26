@@ -7,10 +7,10 @@ header:
 ---
 
 ### Programming language:
-Python, C++
+Python, PySpark
 
 ### Statistical softwares:
-R, Julia, MATLAB
+R, MATLAB
 
 ### Visual Tools:
 Power BI
@@ -23,7 +23,7 @@ SQL
 
 
 ### Packages:
-Pandas, Scipy, Scikit-Learn, keras, pyMongo
+Pandas, Numy, Scipy, Scikit-Learn, Keras
 
 ### ML tools:
 Azure ML
@@ -32,4 +32,4 @@ Azure ML
 Cplex
 
 ### Others:
-Latex, Unix
+Latex
