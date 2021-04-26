@@ -20,7 +20,7 @@ Data scources:
 
 Example: It is shown in the following figure:
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/PE-Classifiaction/PE.png" alt="ooo">
+<img src="{{ site.url }}{{ site.baseurl }}/images/PEClassifiaction/PE.png" alt="ooo">
 
 Details: For the described problem, NLP can be used to translate the unstractured text data to a vector of numerical values. Different binary of multi-class classification approaches can be used to train a model on the labeled data which is eventually be used for the prediction. 
 
