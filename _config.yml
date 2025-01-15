@@ -97,9 +97,9 @@ analytics:
 
 # Site Author
 author:
-  name             : " Seyyed Mohammadreza Azimi"
+  name             : " Mohammadreza (Mo) Azimi"
   avatar           : "/images/profileimg.png"
-  bio              : "Data Scientist, Assistant Vice President, Jefferies Financial Group"
+  bio              : "Quantitative Researcher, Vice President, Wells Fargo Securities"
   location         : "New York City"
   email            :
   uri              :
@@ -115,8 +115,8 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  lastfm           :
-  linkedin         : "seyyed-mohammadreza-azimi-phd-1382a59b" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  lastfm           : 
+  linkedin         : "mohammadreza-azimi-phd-1382a59b/" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
