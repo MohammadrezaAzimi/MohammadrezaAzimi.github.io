@@ -24,4 +24,4 @@ Example: It is shown in the following figure:
 
 Details: For the described problem, NLP can be used to translate the unstractured text data to a vector of numerical values. Different binary of multi-class classification approaches can be used to train a model on the labeled data which is eventually be used for the prediction. 
 
-For further questions, please contact me at sa677@njit.edu. 
+For further questions, please contact me at azimi557@gmail.com. 
